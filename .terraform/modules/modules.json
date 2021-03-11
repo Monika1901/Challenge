@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"vpc_auto_subnets","Source":"git::https://github.com/ncr-swt-sre/sreg-gcp-modules.git","Dir":".terraform/modules/vpc_auto_subnets"}]}
